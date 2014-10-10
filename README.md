@@ -1,4 +1,4 @@
 jenkins
 =======
 
-experimental
+experimental project testing maven and jenkins
